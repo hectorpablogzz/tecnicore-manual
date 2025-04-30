@@ -86,10 +86,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentacion',
           },
-          {to: '/documentacion', label: 'Documentación', position: 'left'},
-          {to: '/backlog', label: 'Product Backlog', position: 'left'},
+          
           {
             href: 'https://github.com/Eldeibit97/Pagina-web-Reto',
             label: 'GitHub',

@@ -21,6 +21,15 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: 'Interactivo',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        Whirlpool TecniCORE permite un aprendizaje didactico e interactivo que crea valor para los usuarios dentro y fuera del aula.
+      </>
+    ),
+  },
 ];
 
 function Feature({Svg, title, description}) {

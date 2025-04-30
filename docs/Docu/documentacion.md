@@ -1,5 +1,5 @@
 ---
-title: Documentación
+title: Reporte final
 ---
 
 # Nombre del producto:
@@ -404,7 +404,7 @@ Prioridad: 4
 ## Modelo Relacional
 
 ### Despliegue de la Base de Datos
-![bd](./assets/bd.png)
+![bd](./bd.png)
 
 ### Cuestionario
 | Campo            | Dominio                              |
@@ -540,16 +540,16 @@ Prioridad: 4
 ## Diagramas UML
 
 ### Diagrama de Actividades (HU01)
-![Diagrama](./assets/HU01.png)
+![Diagrama](./HU01.png)
 
 ### Inicio de sesión de admin. (HU03)
-![Diagrama](./assets/HU03.png)
+![Diagrama](./HU03.png)
 
 ### Navegación del Estudiante (HU04)
-![Diagrama](./assets/HU04.png)
+![Diagrama](./HU04.png)
 
 ### Usuario ingresa al juego (HU05)
-![Diagrama](./assets/HU05.png)
+![Diagrama](./HU05.png)
 
 ## Diagrama de Componentes
-![Diagrama](./assets/componentes.png)
+![Diagrama](./componentes.png)

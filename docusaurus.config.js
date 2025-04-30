@@ -7,7 +7,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
+//hola
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Whirlpool TecniCORE - Manual',

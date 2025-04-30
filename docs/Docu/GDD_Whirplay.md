@@ -10,7 +10,7 @@ sidebar: null
 
 **TecniCORE**
 
-## 🧾 Whirplay
+## 🧾 WhirlPlay
 
 ## 🆔 ID  
 Minijuego educativo web desarrollado en Unity, integrado en la plataforma Solutec para Whirlpool, que permite a técnicos en formación reforzar y evaluar sus conocimientos a través de tres retos interactivos: memorama técnico, cuestionario de opción múltiple y verdadero o falso.

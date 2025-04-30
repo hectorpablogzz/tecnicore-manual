@@ -1,13 +1,13 @@
 ---
-title: Whirplay
+title: WhirlPlay
 sidebar_position: 5
 hide_table_of_contents: true
 sidebar: null
 ---
 
-# 🎮 Whirplay
+# 🎮 WhirlPlay
 
-En la sección **Whirplay** encontrarás videojuegos educativos interactivos que te ayudarán a reforzar tus conocimientos sobre electrodomésticos. Para comenzar, haz clic en el botón “Jugar” desde la pantalla principal. Esto te llevará a una selección de tres juegos diferentes.
+En la sección **WhirlPlay** encontrarás videojuegos educativos interactivos que te ayudarán a reforzar tus conocimientos sobre electrodomésticos. Para comenzar, haz clic en el botón “Jugar” desde la pantalla principal. Esto te llevará a una selección de tres juegos diferentes.
 
 ---
 

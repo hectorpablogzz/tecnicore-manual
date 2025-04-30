@@ -10,7 +10,7 @@
 - Daniel González Orta | A01276941  
 - Nicolás Andre Alfaro Gzz | A00840471
 
-**Ubicación y fecha:** Monterrey, Nuevo León, Marzo 2025
+**Ubicación y fecha:** Monterrey, Nuevo León, Abril 2025
 
 ---
 
@@ -54,7 +54,6 @@ Se probarán los elementos esenciales de la versión inicial de TecniCORE. Si to
 | Plan de Pruebas Inicial | David Martínez Rascón           | Rolando Evelio Pérez             |
 | Entregable_2            | David Martínez Rascón           | Rolando Evelio Pérez             |
 | Reporte de errores      | Héctor Pablo González Espinosa  | David Martínez Rascón            |
-| Base de datos           | Daniel González Orta            | —                                |
 
 ---
 
@@ -118,11 +117,11 @@ Se probarán los elementos esenciales de la versión inicial de TecniCORE. Si to
 ## 10. Pruebas
 | Num de la prueba | Tester       | Herramienta a probar                         | Historia de Usuario                                                                                                                                           | Comentarios                                                                                                         | Resultado   |
 |------------------|--------------|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------|
-| 01               | Hector Pablo | Previsualización de los cursos.              | Como usuario del sitio web me gustaría poder observar los cursos para realizar parte esencial de mi rol.                                                     | Funcionó todo correctamente, sin ningún problema en la realización de esta prueba.                                 | Correcto    |
+| 01               | Héctor Pablo | Previsualización de los cursos.              | Como usuario del sitio web me gustaría poder observar los cursos para realizar parte esencial de mi rol.                                                     | Funcionó todo correctamente, sin ningún problema en la realización de esta prueba.                                 | Completo    |
 | 02               | Daniel       | Envío de datos a la base.                    | Como técnico me gustaría poder generar cursos, añadir alumnos y poder verlos almacenados en la base de datos.                                                | La base de datos recibe la mayoría de los datos creados en la página, imágenes siguen siendo un problema.          | Incompleto  |
 | 03               | Kanaru       | Conexión de base de datos con el juego.      | Como administrador me gustaría poder ver que las preguntas ingresadas a la base de datos puedan ser visualizadas en el juego.                                | El juego recibe las preguntas de la base de datos, aun hay problemas con las respuestas y sus ID's.                | Incompleto  |
 | 04               | David        | Vistas separadas por rol.                    | Como usuario de la plataforma me gustaría poder ver mi rol, además de mis herramientas para poder realizar mis actividades correspondientes.                 | Las vistas de cada rol parecen estar en orden, completamente funcionales.                                          | Completo    |
-| 05               | Hector Pablo | Implementación de la edición de módulos.     | Como administrador me gustaría poder editar los cursos para añadir, eliminar o modificar contenido individual del curso.                                     | La edición de módulos funciona correctamente, ningún error o inconsistencias detectados.                           | Completo    |
+| 05               | Héctor Pablo | Implementación de la edición de módulos.     | Como administrador me gustaría poder editar los cursos para añadir, eliminar o modificar contenido individual del curso.                                     | La edición de módulos funciona correctamente, ningún error o inconsistencias detectados.                           | Completo    |
 | 06               | Kanaru       | Deploy del videojuego en local y máquina virtual | Como desarrollador, me gustaría poder visualizar el videojuego de forma funcional tanto en local como en la máquina virtual para asegurar su correcto funcionamiento. | El videojuego fue desplegado correctamente en la máquina virtual. Se puede acceder desde la plataforma web.        | Completo    |
 | 07                | Nicolás Alfaro    | Deploy de la página y del videojuego en la máquina virtual.       | Como desarrolladores, nos gustaría desplegar correctamente tanto la página web como el videojuego en una máquina virtual, para asegurar acceso desde cualquier dispositivo.       | El despliegue se realizó con éxito en la máquina virtual.           |  Completo |
 
